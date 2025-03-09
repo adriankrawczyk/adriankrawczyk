@@ -23,6 +23,7 @@
 - 💪 Bodybuilding and gym workouts
 - 👥 Having fun with university friends
 <div align="center">
+  
 ## 🚀 Tech Stack 🚀
   
 ### Web Development
