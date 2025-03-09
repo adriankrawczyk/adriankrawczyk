@@ -11,9 +11,8 @@
 - 📚 **Mathematics Tutor** at **Matsin** (October 2024 - present)
 ## 👨‍💻 About Me
   
- - 🎓 Graduate of **Zespół Szkół Elektryczno-Mechanicznych** in the field of Computer Science (2019-2023)
-  
- - 🏆 Certified IT Technician (INF02 and INF03 qualifications)
+- 🎓 Graduate of **Zespół Szkół Elektryczno-Mechanicznych** in the field of Computer Science (2019-2023)
+- 🏆 Certified IT Technician (INF02 and INF03 qualifications)
 - 👨‍🎓 Computer Science student at **AGH University of Krakow** (2023 - present)
 - 🏛️ President of the DS3 Akropol Dormitory Residents' Council
 - 🎓 Member of the Faculty Student Council at the Faculty of Computer Science
