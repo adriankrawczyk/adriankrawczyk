@@ -8,7 +8,7 @@
 ## 💼 Work Experience
 - 📱 **Junior Front End Developer** at **Ekobilet** (React & React-Native, June 2022 - July 2023)
 - 🏦 **Banking Representative** at **ING Express** (July 2024 - October 2024)
-- 📚 **Mathematics Tutor** at **Matsin** (October 2024 - present)
+- 📚 **Mathematics Tutor** at **Matsin** (October 2024 - May 2025)
 - 💻 **Junior Front End Developer** at **Placewise** (React, April 2025 - present)
 ## 👨‍💻 About Me
   
