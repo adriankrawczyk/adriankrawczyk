@@ -10,6 +10,7 @@
 - 🏦 **Banking Representative** at **ING Express** (July 2024 - October 2024)
 - 📚 **Mathematics Tutor** at **Matsin** (October 2024 - May 2025)
 - 💻 **Junior Front End Developer** at **Placewise** (React, April 2025 - August 2025)
+- ✨ **Software Engineering Intern** at **Software Mansion** (React/React Native, March 2026 - Present)
 ## 👨‍💻 About Me
   
 - 🎓 Graduate of **Zespół Szkół Elektryczno-Mechanicznych** in the field of Computer Science (2019-2023)
