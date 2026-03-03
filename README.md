@@ -44,11 +44,5 @@
   
 ### Other Technologies
 [![Other Technologies](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,discord,latex,md,bash&perline=8)](https://skillicons.dev)
-  
-## 🔥 Statistics 🔥
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriankrawczyk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adriankrawczyk&hide=stars&hide_rank=true&show_icons=true&icon_color=800480&title_color=41b883&bg_color=273849&hide_border=true&text_color=ffffff&text_bold=false" width="49%" />
-</p>
 
 </div>
